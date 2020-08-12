@@ -1,0 +1,10 @@
+{
+  "name": "dynamoDB-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Guillaume CRESPEL <guillaume.crespel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.707.0"
+  }
+}
